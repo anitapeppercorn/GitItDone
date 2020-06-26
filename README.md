@@ -1,10 +1,4 @@
-## This is work in progress, I dont have the results I want
+# git-it-Done
 
-# GitItDone
-learning server side API fetch
-
-repoContainerEl.textContent = "";
-repoSearchTerm.textContent = searchTerm;
-    // loop over repos
-    
-homepage.js:34 Uncaught (in promise) ReferenceError: searchTerm is not defined
+## Visit demo site here:
+https://anitapeppercorn.github.io/git-it-done/
